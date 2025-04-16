@@ -1,10 +1,10 @@
 # cryptography-algorithms
 
-# 🛡️ Classical Cipher Collection in Rust
+# Classical Cipher Collection in Rust
 
 This project contains implementations of popular **classical encryption algorithms** written in **Rust**. These ciphers are primarily used for educational purposes to understand the basics of cryptography.
 
-## 🔐 Implemented Ciphers
+## Implemented Ciphers
 
 1. **Caesar Cipher**  
 2. **Atbash Cipher**  
